@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TariqAlizz
 - 👀 I’m interested in Machine Learning and Artificial Intelligence
-- 🌱 I’m currently learning Python,C++, Industry 4.0,open cv, Tensor flow , Dtectron
-- 💞️ I’m looking to collaborate on Python,C++, Industry 4.0,open cv, Tensor flow , Dtectron
+- 🌱 I’m currently learning Python,C++, Industry 4.0,open cv, Tensor flow , Dtectron, object detection 
+- 💞️ I’m looking to collaborate on Python,C++, Industry 4.0,open cv, Tensor flow , Dtectron, Machine learning and Artificial Intelligence.
 - 📫 How to reach me tariq.ali@stud.hs-emden-leer.de
 
 <!---
